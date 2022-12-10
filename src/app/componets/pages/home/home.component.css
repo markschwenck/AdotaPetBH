@@ -1,0 +1,47 @@
+.main {
+    background-image: url(/assets/img/ImgDog.jpg);
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.topic-container {
+    border-top: 2px solid #3B9E3E;
+    background-color: #FFFFFF;
+    text-align: center;
+    font-size: 16px;
+    color: #3B9E3E;
+    font-style: bold;
+    font-family: Poppins;
+    display: flex;
+    /*padding: 10px 20px 0px 20px;*/
+}
+
+.topicos-conteudo {
+  margin: 10px;
+  display: flexbox;
+}
+
+.topicos-rodape {
+    background-color: #3B9E3E;
+    padding: 10px 0;
+    border-top: 2px inset #d9d9d9;
+    display: flex;
+    text-align: center;
+    font-family: Poppins;
+}
+
+h2{
+    font-size: 17px;
+    font-weight: bold;
+    padding-top: 0px;
+    margin-bottom: 25px;
+}
+
+p{
+    font-size: 16px;
+    /*padding: 20px 40px;*/
+}
+

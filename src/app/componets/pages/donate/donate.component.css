@@ -1,0 +1,65 @@
+h1{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.topico-doacao {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    color: #3B9E3E;
+    font-family: Poppins;
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    margin-top: 100px;
+}
+.input-form-doacao {
+    border-radius: 25px;
+    margin: 2% 16%;
+    background-color:#FFFFFF;
+    border: 2px solid #3B9E3E;
+    font-family: Poppins;
+    width: 25%;
+    padding: 10px;
+}
+::placeholder {
+    color:#3B9E3E;
+    font-family: Poppins;
+    font-weight: 500;
+}
+
+.input-imagem{
+
+    color: #3B9E3E !important;
+    font-family: Poppins;
+    display: inline-block;
+    text-align: center;
+    padding-bottom: 20px;
+    line-height: 25px;
+}
+
+
+.buttons .button-login{
+    width: 200px;
+    height: 30px;
+    display: flexbox;
+    border-radius: 25px;
+    cursor: pointer;
+    background-color: #FFFFFF;
+    color: #3B9E3E;
+    border: 1px solid;
+    border-color: #3B9E3E;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    font-size: 15px;
+    padding: 2px 25px;
+
+}
+
+.buttons .button-login:hover {
+    color: #FFFFFF;
+    border-color: #d9d9d9;
+    background-color: #3B9E3E;
+}

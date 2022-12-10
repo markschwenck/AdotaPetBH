@@ -1,0 +1,26 @@
+.faq-container {
+    background-color: #FFFFFF;
+    text-align: center;
+    font-size: 16px;
+    color: #3B9E3E;
+
+    font-family: Poppins;
+    /* padding: 10px 20px 0px 20px; */
+    position: relative;
+    margin-top: 100px;
+}
+
+.questions {
+    margin: 30px;
+    font-family: Poppins;
+    text-align: center;
+}
+h1{
+    font-size: 36px;
+    padding: 40px;
+    font-weight: bold;
+}
+h2{
+    font-size: 22px;
+    padding: 40px;
+}

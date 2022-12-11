@@ -1,3 +1,12 @@
+Descrição da iniciativa:
+
+Plataforma será criada para suprir a necessidade de adoção de animais abandonados e que necessitam de um dono. Inicialmente voltado para cachorros e gatos, e podendo abranger qualquer animal que possa ser criado domesticamente. O intuito será facilitar a comunicação entre pessoas em posse de animais que precisam de um dono, e aspirantes a donos que querem adotar um animal. 
+
+A principal motivação para criação da plataforma, é, inicialmente conter o grande número de animais que são abandonados no Brasil, e futuramente depreciar esse número, extinguindo o cenário atual que hoje conta com mais de 30 milhões de animais abandonados.
+
+A plataforma funcionará com um sistema de cadastro dos animais mencionados, descrevendo características do animal (como vacinas, número de cadastro, e descrições diversas), imagens e localização aproximada para iniciar o processo de adoção.
+
+
 # AdotaPetBH
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.

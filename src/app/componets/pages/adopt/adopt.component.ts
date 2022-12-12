@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-adopt',
+  selector: 'router-outlet-adopt',
   templateUrl: './adopt.component.html',
   styleUrls: ['./adopt.component.css']
 })

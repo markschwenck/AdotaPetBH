@@ -9,8 +9,6 @@ A principal motivação para criação da plataforma, é, inicialmente conter o 
 A plataforma funcionará com um sistema de cadastro dos animais mencionados, descrevendo características do animal (como vacinas, número de cadastro, e descrições diversas), imagens e localização aproximada para iniciar o processo de adoção.
 
 
-
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
 
 ## Development server
@@ -36,6 +34,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Apresentação
+
+https://youtu.be/PZ4GQxELEH4
 
 ## Big Picture
 Arquitetura do projeto: https://www.canva.com/design/DAFRf44ijBA/-CdYQWfQBRSos_U-YsFtXA/edit?utm_content=DAFRf44ijBA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton

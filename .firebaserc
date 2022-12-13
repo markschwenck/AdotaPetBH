@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "adotapetbhfirebase": {
+      "hosting": {
+        "AdotaPetBH": [
+          "adotapetbhfirebase"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "adotapetbhfirebase"
+  }
+}

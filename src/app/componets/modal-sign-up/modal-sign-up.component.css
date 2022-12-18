@@ -106,7 +106,7 @@ input {
     white-space: nowrap;
   }
 
-  .input-form {
+  .form-control {
     width: 50%;
     display: flex;
     border: 1px solid #FFFFFF;
